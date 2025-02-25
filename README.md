@@ -1,7 +1,7 @@
 # NewMachineAccount
 
 ## Overview
-**NewMachineAccount.exe is  a simple standalone exe  tool for creating new machine accounts with custom password within a specified domain.
+**NewMachineAccount.exe** is  a simple standalone exe  tool for creating new machine accounts with custom password within a specified domain.
 
 ## Usage
 ```

@@ -1,5 +1,9 @@
 # NewMachineAccount
 
+
+
+<img width="973" alt="Capture" src="https://github.com/user-attachments/assets/e3d1aaeb-e659-4d29-92b3-0839e3eb2a38" />
+
 ## Overview
 **NewMachineAccount.exe** is  a simple standalone exe  tool for creating new machine accounts with custom password within a specified domain.
 

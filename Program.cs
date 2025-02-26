@@ -29,7 +29,7 @@ class Program
             !arguments.TryGetValue("-domain", out string domain) ||
             !arguments.TryGetValue("-password", out string machinePasswordStr)) // Mandatory
         {
-            Console.WriteLine("Usage: NewMachineAccount.exe v1.0 by @decoder_it\n\t-dc <DomainController>\n\t-name <MachineAccount>r\n\t-domain <Domain>r\n\t-password <MachinePassword>r\n\t[-ou <OU>]r\n\t[-user <Username>]\n\t[-pass <Password>]\n\t[-uac <UAC Flags>]");
+            Console.WriteLine("Usage: NewMachineAccount.exe v1.0 by @decoder_it\n\t-dc <DomainController>\n\t-name <MachineAccount>\n\t-domain <Domain>\n\t-password <MachinePassword>\n\t[-ou <OU>]\n\t[-user <Username>]\n\t[-pass <Password>]\n\t[-uac <UAC Flags>]");
             return;
         }
 
